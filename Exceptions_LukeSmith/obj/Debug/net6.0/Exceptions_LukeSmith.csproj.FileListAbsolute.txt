@@ -1,0 +1,14 @@
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\bin\Debug\net6.0\Exceptions_LukeSmith.exe
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\bin\Debug\net6.0\Exceptions_LukeSmith.deps.json
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\bin\Debug\net6.0\Exceptions_LukeSmith.runtimeconfig.json
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\bin\Debug\net6.0\Exceptions_LukeSmith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\bin\Debug\net6.0\Exceptions_LukeSmith.pdb
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.AssemblyInfoInputs.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.AssemblyInfo.cs
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.csproj.CoreCompileInputs.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\refint\Exceptions_LukeSmith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.pdb
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\Exceptions_LukeSmith.genruntimeconfig.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Exceptions_LukeSmith\Exceptions_LukeSmith\obj\Debug\net6.0\ref\Exceptions_LukeSmith.dll
